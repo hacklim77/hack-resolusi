@@ -1,0 +1,3 @@
+HACK RESOLUSI 2021
+- Membuat website magangsmk.com with wordpress
+- Membuat website magangsmk.com with codeigneter
