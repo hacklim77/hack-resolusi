@@ -1,0 +1,4 @@
+RENCANA BARU hacklim
+
+-membuat website mobile dgn react
+-membuat website dengan laravel
