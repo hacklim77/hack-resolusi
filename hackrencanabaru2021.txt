@@ -1,0 +1,5 @@
+RENCANA BARU hacklim
+
+-belajar javascript
+-membuat website mobile dgn react
+-membuat website dengan laravel
